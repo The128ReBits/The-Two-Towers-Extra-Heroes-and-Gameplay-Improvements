@@ -1,0 +1,76 @@
+{
+  "esquema": 1,
+  "fecha": "2026-10-24",
+  "The128ReBits": [
+    {
+      "url": "https://www.moddb.com/members/the128rebits",
+      "fuente": "The128ReBits",
+      "nombre": "ModDB"
+    },
+    {
+      "url": "https://www.youtube.com/channel/UCl17t170YhKuYt0jRQQqXsA",
+      "fuente": "The128ReBits",
+      "nombre": "YouTube"
+    },
+    {
+      "url": "https://ko-fi.com/the128rebits",
+      "fuente": "The128ReBits",
+      "nombre": "Ko-fi"
+    },
+    {
+      "url": "https://linktr.ee/the128rebits",
+      "fuente": "The128ReBits",
+      "nombre": "Linktree"
+    },
+    {
+      "nombre": "Patreon",
+      "url": "https://www.patreon.com/The128ReBits",
+      "fuente": "The128ReBits"
+    },
+    {
+      "nombre": "Instagram",
+      "url": "https://www.instagram.com/The128ReBits",
+      "fuente": "The128ReBits"
+    },
+    {
+      "nombre": "TikTok",
+      "url": "https://www.tiktok.com/@the128rebits",
+      "fuente": "The128ReBits"
+    },
+    {
+      "nombre": "GameFront",
+      "url": "https://www.gamefront.com/@the128rebits",
+      "fuente": "The128ReBits"
+    }
+  ],
+  "Gumpolas": [
+    {
+      "nombre": "GitHub",
+      "url": "https://github.com/Gumpolas/TooTawersRecomp",
+      "fuente": "Revisado el 24/10/2026: perfil de GitHub, README y releases oficiales de Gumpolas."
+    },
+    {
+      "nombre": "GitHub profile",
+      "url": "https://github.com/Gumpolas",
+      "fuente": "Revisado el 24/10/2026: perfil de GitHub, README y releases oficiales de Gumpolas."
+    },
+    {
+      "nombre": "GitHub Releases",
+      "url": "https://github.com/Gumpolas/TooTawersRecomp/releases",
+      "fuente": "Revisado el 24/10/2026: perfil de GitHub, README y releases oficiales de Gumpolas."
+    },
+    {
+      "nombre": "GitHub Issues",
+      "url": "https://github.com/Gumpolas/TooTawersRecomp/issues",
+      "fuente": "Revisado el 24/10/2026: perfil de GitHub, README y releases oficiales de Gumpolas."
+    }
+  ],
+  "runtime": [
+    {
+      "url": "https://github.com/sp00nznet/xboxrecomp",
+      "fuente": "README de xboxrecomp; repositorio público verificado el 23/10/2026",
+      "nombre": "xboxrecomp (sp00nz y colaboradores)"
+    }
+  ],
+  "no_confirmados": "Checked 2026-10-24: Gumpolas GitHub profile (no bio or links), README (only external link: GLOS69 on ModDB) and releases; no Patreon, Ko-fi, YouTube, Discord or social link published. Do not guess links."
+}
