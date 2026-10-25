@@ -10,6 +10,6 @@
 | Texturas aparte; DLSS opcional | hd_import.json y dlss_download.json | RAR reales y GPU/descarga requieren comprobación manual. |
 | Instalador y núcleo 1.9.4 | Informe final, package.json y README oficial | Sin heredar funciones posteriores del port. |
 
-Las imágenes promocionales son montajes de capturas reales de desarrollo; no prueban el comportamiento de todas las misiones de la entrega publicada.
+Los carteles nuevos son ilustraciones promocionales asistidas por IA, identificadas como tales. Los recuadros del reparto interpretan referencias de desarrollo; no son capturas intactas. Las capturas reales se publican aparte como assets/gameplay_troll.jpg, gameplay_archer.jpg, gameplay_gandalf.jpg y gameplay_uruk.jpg. Ninguna imagen certifica todas las misiones de la entrega publicada.
 
 Port original: https://github.com/Gumpolas/TooTawersRecomp
