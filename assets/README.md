@@ -2,6 +2,8 @@
 
 By The128ReBits, for Gumpolas’ original The Two Towers Recompiled PC port.
 
-These layouts use real development gameplay captured on 21 October 2026. They are promotional montages, not single gameplay frames or certification of the released build. The language graphic is explanatory, not an installer screenshot. No characters were generated or substituted with AI.
+The cover, Cave troll, roster and language posters are AI-assisted promotional illustrations, labelled as artwork. They are not screenshots or evidence of the game’s rendered appearance. The Cave troll design follows the appearance references supplied by The128ReBits. The roster uses development gameplay as visual reference; its inset panels are interpreted illustrations, not untouched screenshots.
 
-The Cave troll is the main image. Other cover panels show Gandalf the White, the Elven archer and the Uruk captain. Elrond and Sauron are original extras by Gumpolas and are not marketed as new additions here.
+Actual development captures are provided separately as gameplay_troll.jpg, gameplay_archer.jpg, gameplay_gandalf.jpg and gameplay_uruk.jpg. They show the Cave troll, Elven archer, Gandalf the White and Uruk captain from 21 October 2026 and do not certify the released package. The language image illustrates five independent settings; it is not the installer interface.
+
+Elrond and Sauron are Gumpolas’ original extras. GLOS69 is a separate publication.
