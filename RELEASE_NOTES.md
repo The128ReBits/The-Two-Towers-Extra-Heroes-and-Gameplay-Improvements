@@ -39,7 +39,7 @@ File: **The_Two_Towers_Recompiled_Definitive_Mod_The128ReBits.zip** · **49,149,
 
 SHA-256: `10e29fb12952975eb0b4ffa4fe0bc138ee4c4962efd04a087ab46b4854f0de6e`
 
-No ISO, original game data, saves or GLOS69 pack included. [Original port](https://github.com/Gumpolas/TooTawersRecomp) · [Full README](https://github.com/The128ReBits/The-Two-Towers-HD-Pack-and-Improvements-for-Gumpolas-PC-Port) · [ModDB](https://www.moddb.com/mods/the-two-towers-recompiled-definitive-mod-by-the128rebits)
+No ISO, original game data, saves or GLOS69 pack included. [Original port](https://github.com/Gumpolas/TooTawersRecomp) · [Full README](https://github.com/The128ReBits/The-Two-Towers-Extra-Heroes-and-Gameplay-Improvements) · [ModDB](https://www.moddb.com/mods/the-two-towers-recompiled-definitive-mod-by-the128rebits)
 
 ---
 
@@ -60,3 +60,11 @@ GLOS69 Native/Lite se descarga aparte y se importa desde RAR/carpeta. DLSS 5 es 
 Extrae el ZIP completo y abre **Instalar The Two Towers Definitive Mod.exe**. Selecciona juego existente o aporta port Windows original + ISO Xbox USA propia para instalación nueva. Ajustes y perfiles se conservan, con partidas separadas y mantenimiento. PAL sola no sirve de base.
 
 Gracias especialmente a **Gumpolas** por el port, mejoras continuas y compatibilidad/difusión de GLOS69. Núcleo basado en **1.9.4**, sin heredar automáticamente funciones posteriores. Las comprobaciones humanas de campaña, guardado/carga, audio, sincronía y gráficos siguen pendientes. El archivo, tamaño, SHA-256 son los de arriba.
+
+
+**Recommended: play with my GLOS69 HD texture pack, available separately on ModDB: [Native](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-575gb-version-native) or [Lite](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-lite-version-175gb).** The gameplay mod also works without the pack; import its RAR or extracted folder through the installer.
+
+
+
+**Se recomienda jugar con mi pack de texturas HD GLOS69, disponible por separado en ModDB: [Native](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-575gb-version-native) o [Lite](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-lite-version-175gb).** El mod de jugabilidad también funciona sin el pack; el instalador permite importarlo desde RAR o carpeta.
+

@@ -6,7 +6,7 @@
 
 Take the Cave troll into battle with its huge frame, heavy movement, mace and throwable rocks. Add six playable characters, revisit combat across all 13 extra heroes and choose text, subtitles and voices independently. The roster grows from **11 to 17**.
 
-[Download](https://github.com/The128ReBits/The-Two-Towers-HD-Pack-and-Improvements-for-Gumpolas-PC-Port/releases/tag/extra-heroes-gameplay-improvements) · [ModDB](https://www.moddb.com/mods/the-two-towers-recompiled-definitive-mod-by-the128rebits) · [Original port](https://github.com/Gumpolas/TooTawersRecomp) · [Español](#español)
+[Download](https://github.com/The128ReBits/The-Two-Towers-Extra-Heroes-and-Gameplay-Improvements/releases/tag/extra-heroes-gameplay-improvements) · [ModDB](https://www.moddb.com/mods/the-two-towers-recompiled-definitive-mod-by-the128rebits) · [Original port](https://github.com/Gumpolas/TooTawersRecomp) · [Español](#español)
 
 ## Take the Cave troll’s side of the fight
 
@@ -53,7 +53,11 @@ Campaign progression with extras is implemented so their victories can open the 
 
 New installations default to the fourth option; updates preserve your choice. Complete campaign runs and in-game save/load checks with each extra remain manual validation work.
 
-![Play as the Cave troll — real development gameplay](assets/troll_en.jpg)
+![Play as the Cave troll — promotional artwork](assets/troll_en.jpg)
+
+*Promotional illustration. Actual development gameplay below:*
+
+![Cave troll — actual development gameplay, 21 October 2026](assets/gameplay_troll.jpg)
 
 ## Five language choices. Your combination.
 
@@ -78,9 +82,13 @@ Xbox PAL adds **4 Spanish, 3 Italian, 2 French and 3 German gameplay entries** o
 
 PAL additionally supplies **three localized Bink files per language** (`logos`, `mont`, `yar1_2`). A localized file does not necessarily contain spoken dialogue. The **public installer does not import PS2 videos**: PS2 is an optional gameplay-voice supplement for Spanish, Italian, French or German, validated by file. **English remains the fallback** for unavailable localized entries. Human listening, synchronization and gameplay validation remain pending.
 
+*The poster illustrates an example combination, not the installer interface.*
+
 ![Five independent language choices — explanatory graphic](assets/languages_en.jpg)
 
 ## Optional graphics, after the gameplay
+
+**Recommended: play with my GLOS69 HD texture pack, available separately on ModDB: [Native](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-575gb-version-native) or [Lite](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-lite-version-175gb).** The gameplay mod also works without the pack; import its RAR or extracted folder through the installer.
 
 My **GLOS69 Native/Lite texture pack is a separate project and download**. Import a supported RAR or extracted folder through the installer, then use the port’s Ultra texture option. Choose [Native](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-575gb-version-native) or [Lite](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-lite-version-175gb). The pack works without DLSS.
 
@@ -121,7 +129,7 @@ SHA-256: `10e29fb12952975eb0b4ffa4fe0bc138ee4c4962efd04a087ab46b4854f0de6e`
 
 This repository provides the player release and documentation, not the mod’s complete source tree. There is no blanket licence for all components. See [claim evidence](docs/EVIDENCE.md), packaged credits, LICENSE.txt, LGPL-2.1.txt, THIRD-PARTY-NOTICES.txt and component licence folders.
 
-Promotional layouts use real development captures from **21 October 2026**, cropped and arranged for readability. They are labelled montages, not a single gameplay frame or validation of the final release. The language graphic is explanatory, not an installer screenshot.
+The promotional posters are labelled AI-assisted illustrations, not gameplay screenshots. The roster uses development captures as visual references; its inset panels are interpreted artwork. Actual development captures from 21 October 2026 are provided separately. The language poster is an explanatory example, not the installer interface.
 
 ---
 
@@ -203,6 +211,8 @@ PAL aporta además **tres archivos Bink localizados por idioma** (`logos`, `mont
 
 ## Gráficos opcionales, después de la jugabilidad
 
+**Se recomienda jugar con mi pack de texturas HD GLOS69, disponible por separado en ModDB: [Native](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-575gb-version-native) o [Lite](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-lite-version-175gb).** El mod de jugabilidad también funciona sin el pack; el instalador permite importarlo desde RAR o carpeta.
+
 Mi **pack GLOS69 Native/Lite es un proyecto y una descarga independientes**. El instalador permite importarlo desde un RAR compatible o una carpeta extraída y utilizarlo con la opción Ultra del port. Elige [Native](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-575gb-version-native) o [Lite](https://www.moddb.com/mods/the-two-towers-textures-4k-ai-remaster/addons/the-two-towers-textures-4k-ai-remaster-lite-version-175gb). El pack funciona sin DLSS.
 
 **DLSS 5 es opcional y experimental.** El instalador ofrece descarga verificada mediante sumas de comprobación, activación y personalización posterior. Mi integración incluye el guard de menús/vídeos `tt_dlss5_guard`, los shaders `TT_Acabado` y `TT_Sombra`, el perfil **Tierra Media – Sombra** y un configurador visual. Parte de mi integración previa para The Simpsons Hit & Run. ReShade, Feeder, RenoDX y los demás componentes externos mantienen autores y licencias. Algunos componentes descargados son compilaciones comunitarias; no es un parche oficial NVIDIA. Instalar correctamente no demuestra por sí solo procesamiento activo en GPU, rendimiento ni un resultado visual concreto.
@@ -234,4 +244,4 @@ Sigue el [proyecto original](https://github.com/Gumpolas/TooTawersRecomp), sus [
 
 Los informes incluyen pruebas automáticas de animación, personajes, progresión e instalador, además de grabaciones de versiones de desarrollo. No acreditan una campaña completa del paquete publicado. Siguen pendientes comprobaciones manuales de personajes e interacciones de misión, campaña y guardado/carga, escucha y sincronía, importación de RAR reales Native/Lite, descarga real de DLSS y funcionamiento en GPU, y recuperación tras una interrupción real. La comprobación de instalación nueva desde el ZIP final extraído se detuvo correctamente por espacio insuficiente; una instalación aislada anterior pasó con el mismo ejecutable y motor.
 
-El archivo, tamaño, SHA-256 y tag técnico figuran arriba. Repositorio de descarga y documentación; no incluye todo el código fuente del mod. Las composiciones promocionales son montajes de capturas reales de desarrollo del 21/10/2026; no acreditan el comportamiento de la entrega publicada. El gráfico de idiomas es explicativo.
+El archivo, tamaño, SHA-256 y tag técnico figuran arriba. Repositorio de descarga y documentación; no incluye todo el código fuente del mod. Los carteles están identificados como ilustraciones promocionales asistidas por IA, no capturas del juego. El reparto usa capturas como referencia visual; los recuadros son interpretaciones ilustradas. Las capturas reales se conservan aparte. El cartel de idiomas es explicativo, no la interfaz del instalador.
